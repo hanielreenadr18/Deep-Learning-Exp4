@@ -1,6 +1,6 @@
 # Deep-Learning-Exp4
 
-**Implement a Transfer Learning concept in Image Classification**
+## Implement a Transfer Learning concept in Image Classification
 
 ## AIM
 
